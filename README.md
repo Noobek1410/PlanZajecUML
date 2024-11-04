@@ -108,7 +108,7 @@ sequenceDiagram
     Cls-->>Sched: confirmClassAdded()
     Sched-->>Admin: scheduleCreated()
 ```
-
+Do systemu mają dostęp użytkownicy o trzech klasach zabezpieczeń i funcjonalności : Student , Techear i Administrator
 tutaj pokaż przykład zastosowań jeśli chcesz dodać jakieś jeszcze by lepiej pokazać użycie tego "systemu" napisz klazule 
 ```
 '''mermaid
@@ -117,4 +117,4 @@ tutaj pokaż przykład zastosowań jeśli chcesz dodać jakieś jeszcze by lepie
 ```
 
 Made by:
-Łukasz Stajkowski
+Łukasz Stajkowski, Mateusz Bryniak
